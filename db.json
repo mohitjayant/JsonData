@@ -10,12 +10,5 @@
   { "name": "Hungary", "dial_code": "+36", "code": "HU" },
   { "name": "Iceland", "dial_code": "+354", "code": "IS" },
   {"name": "India", "dial_code": "+91", "code": "IN" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
