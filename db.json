@@ -2,13 +2,6 @@
   "CountryCode": [
    { "name": "Israel", "dial_code": "+972"},
    { "name": "Afghanistan", "dial_code": "+93"},
-   { "name": "Albania", "dial_code": "+355"},
-   { "name": "Algeria", "dial_code": "+213" },
-   { "name": "Denmark", "dial_code": "+45"},
-  {"name": "Guyana","dial_code": "+595"},
-  {"name": "Haiti", "dial_code": "+509"},
-  { "name": "Hungary", "dial_code": "+36"},
-  { "name": "Iceland", "dial_code": "+354"},
-  {"name": "India", "dial_code": "+91" }
+   
   ]
 }
